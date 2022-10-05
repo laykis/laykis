@@ -1,8 +1,9 @@
 ### Welcome to my place! 👋
 
-Hello, I'm Dohyeon Kim.
+Hello, I'm junior developer Dohyeon Kim.
 
-I'm senior year in Wonkwang Univ. I hope to become a back-end developer.
+##### Create services that did not exist and make existing services more efficient.
+
 
 
 
