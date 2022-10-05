@@ -1,11 +1,14 @@
 ### Welcome to my place! 👋
 
+Keep learning, Keep working, Keep Improving.
+
 Hello, I'm junior developer Dohyeon Kim.
 
 I want to **Create services that did not exist and make existing services more efficient.**
 
+My major is Web services based on Spring boot. also I will expand my skils to Cloud native service.
 
-
+Thank you.
 
 ## Stacks  
 
