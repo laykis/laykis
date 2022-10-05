@@ -2,7 +2,7 @@
 
 Hello, I'm junior developer Dohyeon Kim.
 
-I want to *Create services that did not exist and make existing services more efficient.*
+I want to **Create services that did not exist and make existing services more efficient.**
 
 
 
